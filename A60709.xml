@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sober and seasonable queries humbly offered to all good Protestants in England in order to a choice of the new Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60709</idno>
+            <idno type="STC">Wing S4402</idno>
+            <idno type="STC">ESTC R13345</idno>
+            <idno type="EEBO-CITATION">11914777</idno>
+            <idno type="OCLC">ocm 11914777</idno>
+            <idno type="VID">50909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50909)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sober and seasonable queries humbly offered to all good Protestants in England in order to a choice of the new Parliament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Protestants --  England.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50909:1"/>
+            <pb n="1" facs="tcp:50909:1" rendition="simple:additions"/>
+            <head>SOBER AND Seaſonable Queries Humbly offered to all GOOD PROTESTANTS IN ENGLAND, In Order to a Choice of the New Parliament.</head>
+            <p n="1">I. WHether the Kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> are not deſigned for Deſtruction by the Helliſh Conſpiracy of the bloody Papiſts, as hath been declared by two Parliaments, and ſufficiently proved by the King's Witneſſes before the Judges of this Kingdom.</p>
+            <p n="2">II. What poſture of Defence extraordinary is the City of <hi>London</hi> and Na<g ref="char:EOLhyphen"/>tion in at the Diſcovery of ſo Helliſh a Plot, to defend themſelves from the In<g ref="char:EOLhyphen"/>ſurrection of Papiſts at home, and Invaſion from Papiſts abroad ſuitable to the deſires of a Loyal Parliament.</p>
+            <p n="3">III. Whether Prorogation and Diſſolution of Parliaments at ſuch a time as this doth not fill the hearts of Proteſtant Subjects with evident fears of De<g ref="char:EOLhyphen"/>ſtruction, and gives the curſed Plotters too to much ground to believe that their day is coming.</p>
+            <p n="4">IV. Whether have we not great reaſon to fear that the Papiſts will not here<g ref="char:EOLhyphen"/>by take encouragement to proceed in their Helliſh Deſign to Murder the King, who they know is ſworn at his Coronation to maintain and defend the Pro<g ref="char:EOLhyphen"/>teſtants Religion (and ſo is ſolemnly engaged againſt them) whereby they may
+<pb n="2" facs="tcp:50909:2" rendition="simple:additions"/>ſubvert the Government, by bringing in a Popiſh Succeſſor, in whom is all their help and hope.</p>
+            <p n="5">V. Whether any Speeches to, or in Parliament, in favour of a Popiſh Suc<g ref="char:EOLhyphen"/>ceſſor, is not of direct tendency to prepare the Nation to make Tryal of it again, as if the dreadful Effects of Queen <hi>Mary</hi>'s Raign were, or ever can be forgotten, whoſe great promiſes was ſealed with Fire and Faggot.</p>
+            <p n="6">VI. If ſo, what are we to think of them that have or ſhall diſcounte<g ref="char:EOLhyphen"/>nance, or endeavour to corrupt the King's Witneſſes: or that do indulge ar<g ref="char:EOLhyphen"/>raigned Traytors impudently to aſperſe the Juſtice of the Land.</p>
+            <p n="7">VII. Whether it is not the indiſpenſible Duty of all Proteſtant Magi<g ref="char:EOLhyphen"/>ſtrates whatſoever, with the People of <hi>England,</hi> to conſider with them<g ref="char:EOLhyphen"/>ſelves, and conſult the Learned in the Laws what Power God and the King, and the Laws have put into their hands for the prevention of <hi>Popery</hi> and Slavery, both from themſelves and poſterity, leſt their Ignorance and Security bring De<g ref="char:EOLhyphen"/>ſtruction without Recovery.</p>
+            <p n="8">VIII. Whether it will not be for the perpetual Honour of the Magiſtrates of <hi>London,</hi> to be firſt in this work, foraſmuch as that famous City hath wo<g ref="char:EOLhyphen"/>ful experience in their many dreadful Burnings, that the tender mercies of the Papiſts towards them is Popiſh Cruelty.</p>
+            <p n="9">IX. Whether that Coſtly Monument erected near <hi>London Bridge,</hi> is not to be a perpetual Land mark for all Engliſh and Forein Proteſtants, forever to re<g ref="char:EOLhyphen"/>member 1666. <hi>Septsmber</hi> 2. when thoſe curſed Plotters began to ſet Fire at a Baker's-Houſe in <hi>Pudding-Lane,</hi> which by theſe Emiſaries was conducted on, for four daies together, till it laid in Aſhes thirteen thouſand two hundred Proufes, laying waſte three hundred ſeventy three Acres of Land within the Walls, and above ſixty three Acres without the Walls, with eighty nine Pariſh-Churches.</p>
+            <p n="10">X. Whether the <hi>Spaniſh</hi> Invaſions, 1588. and the Gunpowder-Treaſon, 1605. together with the cruel Murders and Maſſacres on ſome Hundred thou<g ref="char:EOLhyphen"/>ſand <hi>Proteſtants,</hi> Men, Women and Children, in the <hi>Netherlands, Ireland, Pied<g ref="char:EOLhyphen"/>mont,</hi> and the <hi>Albigenſes,</hi> be not a ſufficient Warning to <hi>England.</hi> That they be<g ref="char:EOLhyphen"/>ſeech their God and their King, and their Parliament, That no <hi>Papiſt,</hi> of ſuch deſtructive Principles, may dwell in our Land?</p>
+            <p n="11">XI. Whether ſuch a Day as this, doth not loudly Call for Repentance, that Proteſtants have been perſecuting each other, and for Unity in Affecti<g ref="char:EOLhyphen"/>on among all <hi>Proteſtant</hi> Subjects, whether Conforming or Diſſenting in ſome leſſer Points; And that as Brethren they unite in ſuch a Combination or Conjunction as was in Queen <hi>Elizabeth</hi>'s time, with good Succeſs to defend the Crown, Religion and Kingdom, againſt the common Enemy of Mankind; Forasmuch as the Epiſcopal Proteſtants, as well as others, muſt lye down in the ſame Bed of Flames together, if the Pope and his Party get the upper-hand.</p>
+            <pb n="3" facs="tcp:50909:2"/>
+            <p n="12">XII. Whether it be not the Duty of all Good <hi>Proteſtants,</hi> to pray for the Long Life of the King, That He may Live ſo, as becometh the ſame Religion, it being an Enemy to all Vice, and the Maintenance of all Virtue; Foraſmuch al<g ref="char:EOLhyphen"/>ſo, That the Removing of the King, (as the <hi>Papiſts</hi> call it) is the moſt likely way to let in <hi>Popery,</hi> and a Thouſand other Miſeries upon this poor King<g ref="char:EOLhyphen"/>dom?</p>
+            <p n="13">XIII. Whether it be not high time for all the <hi>Proteſtants</hi> in <hi>England,</hi> to Reſolve, as one Man, That they will ſtand by and maintain the Power and Privi<g ref="char:EOLhyphen"/>ledges of Parliament; Together with the Power and juſt Rights of the King, according to the Laws of the Kingdom, ſo as the one may not Intrench upon the other?</p>
+            <p n="14">XIV. Whether it be not the Duty of all Good Proteſtants, to be heartily Thankful to God, for the timely Diſcoveries of this Helliſh Plot; And alſo to pray, That God would preſerve the King and Kingdoms Witneſſes, that they may finiſh their Teſtimony, to the well becoming ſo ſignal a Work, and humble Behaviour before Almighty God, the King and Kingdom; That they may ob<g ref="char:EOLhyphen"/>tain Mercy at the Hand of God, and not be Caſt-aways to themſelves, while they are of ſuch publick Uſe and Benefit to theſe bleeding Nations?</p>
+            <p n="15">XV. Whether all the Counties, Cities and Corporations in <hi>England,</hi> are not at this time more highly Concerned than ever, to make Choice of ſuch for Par<g ref="char:EOLhyphen"/>liament Men, as may not Sell, but Save them, to the Happy Settlement of our preſent Proteſtant King and Government?</p>
+            <p n="16">XVI. Whether therefore it be not the Duty of the People, to chooſe ſuch as are well known to be Men of good Conſcience and Courage, thorougly Prin<g ref="char:EOLhyphen"/>cipled in the Proteſtant Religion, and of high Reſolution to maintain it with their Lives and Fortunes?</p>
+            <p n="17">XVII. Whether all true <hi>Engliſh</hi> Men ought not ſeriouſly to conſider what they truſt the Parliament with, <hi>viz.</hi> their Eſtates, Liberties, Religion and Lives, And ſhould they be undone in any of theſe, when it is too late, they may La<g ref="char:EOLhyphen"/>ment themſelves, That they are undone by making ſuch a Choice as have undone them by Law?</p>
+            <p n="18">XVIII. Whether it ſhould not be the great Care of all Counties, Cities and Boroughs, to conſider who have been formerly Penſioners or Farmers of Po<g ref="char:EOLhyphen"/>pery; And whether they are fit again to be Intruſted with their Religion, Lives and Liberties?</p>
+            <p n="19">XIX. Whether you are not bound to conſider thoſe worthy Members of the late Parliament, who have already Faithfully ſerved you, and the whole King<g ref="char:EOLhyphen"/>dom, with their Perſons and Eſtates; And now ſhew your Eſteems of them, and Acceptance of their former Services, by an Unanimous Chooſing of them again, Foraſmuch as they are beſt acquainted with the Deplorable ſtate of theſe Kingdoms?</p>
+            <pb n="4" facs="tcp:50909:3"/>
+            <p n="20">XX. Whether it be not your indiſpenſible Duties, to endeavor to make their Elections eaſie, by bearing your own Charges, and the Charges of the meaner ſort of Freeholders, leſt ſuch as would Heartily ſerve you, be in time Diſcouraged, to undertake that great Work of preſerving you and your Poſteri<g ref="char:EOLhyphen"/>ties, in your lawful and undoubted Rights?</p>
+            <p n="21">XXI. Whether may we not, without breach of Charity, conclude, That if known Pentioners do now Buy Seats in Parliament, they do not intend again to make Merchandize of all that is dear to us? And whether will not all Freeholders and Electors, be deſervedly accounted Infamous, and the Be<g ref="char:EOLhyphen"/>trayers of their Countrey, who ſhall Reſolvedly, after ſuch Diſcoveries of our Dangers, and ſuch Opportunities of being, by God's Bleſſing, delivered from them by honeſt <hi>Engliſh</hi> Parliaments, Sell themſelves, their Wives, Children and Eſtates, for one of <hi>Eſau</hi>'s Morſels?</p>
+            <p n="22">XXII. Whether it be not the hearty Prayer of all good Proteſtants, That the King would be pleaſed to hearken unto, and relie upon the Advice of His Parliament; and avoid all ſuch, who ſeek to make themſelves Rich, by making the King and Kingdom Poor: Foraſmuch as the Parliament are the Great Council of the King and Kingdom; and by them the King is ſupplied, out of the Purſe of the Kingdom; and they Command and Encourage the People to venture the ſhedding of their deareſt Blood in any Juſt and Righteous Cauſe, to maintain the King and Kingdoms Power and Greatneſs?</p>
+            <p n="23">XXIII. Whether if you will believe the <hi>Jeſuits</hi> and <hi>Prieſts</hi> at St. <hi>Omers.</hi> That there was never any ſuch Man as Sir <hi>Edmund-berry Godfrey</hi> born; And if you will believe what his Murderers ſaid at their Death, that they did not Murder him, then you muſt not believe there was any ſuch Man as Sir <hi>Edmund-berry Godfrey</hi> in <hi>England?</hi>
+            </p>
+            <p n="24">XXIV. Laſtly, Whether if <hi>Popiſh</hi> Treaſons and Murders, render the <hi>Papiſts'</hi> at their Death, as Innocent as the Child unborn, who would not be a Murderer, and <hi>Popiſh</hi> Traytor?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
